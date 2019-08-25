@@ -3,7 +3,6 @@ jQuery(document).ready(function() {
 	var MainBox	=	$('#MainBox');
 	var AliPayQR	=	'images/AliPay.jpeg';
 	var WeChatPayQR	=	'images/WeChatPay.png';
-	var UnionPayQR = 'images/UnionPay.png';
 
 
 	
@@ -24,8 +23,6 @@ jQuery(document).ready(function() {
 			showQR(AliPayQR);
 		} else if (thisID === 'WeChatPay') {
 			showQR(WeChatPayQR);
-		} else if(thisID === 'UnionPay') {
-			showQR(UnionPayQR);
 		}
 	});
 
