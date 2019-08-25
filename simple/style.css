@@ -95,7 +95,7 @@ a{
 #donateBox a {
 	display: block;
 }
-#donateBox #UnionPay {
+#donateBox #PayPal {
 	background-image: url(images/paypal.jpg);
 }
 
