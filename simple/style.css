@@ -96,12 +96,13 @@ a{
 	display: block;
 }
 #donateBox #PayPal {
-	background-image: url(images/paypal.jpg);
+	background-image: url(images/paypal.jpeg);
 }
 
 #donateBox #AliPay {
 	background-image: url(images/alipay.jpeg);
 }
+
 #donateBox #WeChatPay {
 	background-image: url(images/wechatpay.png);
 }
