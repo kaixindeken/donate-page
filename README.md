@@ -1,6 +1,6 @@
 # Donate-Page
 
-一款捐赠按钮样式，包含支付宝、微信、paypal，可使用iframe直接嵌入，方便简洁。
+一款打赏按钮样式，包含支付宝、微信、paypal，可使用iframe直接嵌入，方便简洁。
  
 iframe嵌入示例
 ```html
@@ -8,8 +8,3 @@ iframe嵌入示例
 ```
 
 
----
-
-### License
-
-Released under the MIT license.
